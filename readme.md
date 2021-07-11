@@ -1,6 +1,6 @@
 # Natours Application
 
-Built using modern technologies: Node.js, Express, MongoDB, Mongoose and friends 😁
+Built using modern technologies: Node.js, Express, MongoDB, Mongoose and other more.
 
 ## It's live on
 https://adtours.herokuapp.com/
