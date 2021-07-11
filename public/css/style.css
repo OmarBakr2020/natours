@@ -1071,11 +1071,20 @@ body {
 }
 
 .card-container {
-  max-width: 120rem;
-  margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 7rem;
+  grid-template-columns:  1fr;
+  grid-gap: 2rem;
+  
+}
+
+@media only screen and (min-width: 49em) {
+  .card-container {
+    max-width: 120rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 7rem;
+  }
 }
 
 .card {
