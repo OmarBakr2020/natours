@@ -1077,7 +1077,7 @@ body {
   
 }
 
-@media only screen and (min-width: 49em) {
+@media only screen and (min-width: 56em) {
   .card-container {
     max-width: 120rem;
     margin: 0 auto;
